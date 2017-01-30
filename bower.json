@@ -1,0 +1,25 @@
+{
+  "name": "lovethatbrew_foundation",
+  "version": "1.0.0",
+  "description": "Custom Zurb Foundation 6 theme.",
+  "main": "index.php",
+  "authors": [
+    "Justin Gossett <justin@haplous.com>"
+  ],
+  "license": "ISC",
+  "homepage": "http://lovethatbrew.com",
+  "dependencies": {
+    "foundation-sites": "~6.2.3",
+    "motion-ui": "~1.2.2",
+    "sass-list-maps": "~1.0.0",
+    "modernizr": "components/modernizr#~2.8.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
